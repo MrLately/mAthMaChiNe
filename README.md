@@ -16,4 +16,4 @@ Notes
 The program expects the file to contain lines with income data. Each line should contain a "$" sign followed by the amount.
 The program can handle income amounts with commas (e.g. $1,000.00)
 License
-This project is licensed under the MIT License.
+This project is licensed under the CC BY-NC-SA 4.0 License.
